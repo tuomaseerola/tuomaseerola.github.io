@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of various elements of music such as timbre, rhythm, metre and dissonance to name a few.   
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find my publications
 
-### Contact me
+* [Google scholar](https://scholar.google.com/citations?user=K-odYUYAAAAJ&hl=en)
+* [Researchgate](https://www.researchgate.net/profile/Tuomas_Eerola)
+* [ORCID](https://orcid.org/0000-0002-2896-929X)
 
-[email@domain.com](mailto:email@domain.com)
+and my academic homepage is at [Durham University](https://www.dur.ac.uk/music/staff/profile/?id=11476)
+
