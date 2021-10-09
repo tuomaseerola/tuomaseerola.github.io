@@ -16,3 +16,5 @@ You can find my publications
 
 and my academic homepage is at [Durham University](https://www.dur.ac.uk/music/staff/profile/?id=11476)
 
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Ftuomaseerola.github.io%2FEerola.bib&commas=true&jsonp=1"></script>
