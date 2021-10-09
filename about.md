@@ -2,21 +2,22 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of various elements of music such as timbre, rhythm, metre and dissonance to name a few.   
+I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the key elements of music such as melody, timbre, rhythm, metre and dissonance.   
 
-### More Information
+## More Information
 
-You can find my publications
+My academic homepage is at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/)
+
+You can find my publications at these services
 
 * [Google scholar](https://scholar.google.com/citations?user=K-odYUYAAAAJ&hl=en)
 * [Researchgate](https://www.researchgate.net/profile/Tuomas_Eerola)
 * [ORCID](https://orcid.org/0000-0002-2896-929X)
 
-and my academic homepage is at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/)
-
-## List of open data and code
+I have also compiled a list of my Open Data
 
 * [https://github.com/tuomaseerola/opendata](https://github.com/tuomaseerola/opendata)
 
