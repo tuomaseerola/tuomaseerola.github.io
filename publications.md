@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /Publications/
+permalink: /publications/
 ---
 
 You can find my publications at:
