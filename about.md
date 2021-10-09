@@ -5,22 +5,20 @@ permalink: /about/
 published: true
 ---
 
-I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the key elements of music such as melody, timbre, rhythm, metre and dissonance.   
-
-## More Information
+I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the key elements of music such as melody, timbre, rhythm, metre and dissonance.
 
 My academic homepage is at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/)
 
-You can find my publications at these services
+# Research Themes
 
-* [Google scholar](https://scholar.google.com/citations?user=K-odYUYAAAAJ&hl=en)
-* [Researchgate](https://www.researchgate.net/profile/Tuomas_Eerola)
-* [ORCID](https://orcid.org/0000-0002-2896-929X)
+I have worked on a number of different research themes and topics. Here are some example questions from these topics.
 
-I have also compiled a list of my Open Data
+## Music and emotions
 
-* [https://github.com/tuomaseerola/opendata](https://github.com/tuomaseerola/opendata)
+How music affects our emotions? What are the actual emotions, can they be reliable captured with self-reports and psychophysiology? Why some pieces of music seem to give goosebumps and chills to some listeners but not to others? What features of music communicate emotional expression in Western music and how dependent are these from genre and culture? Why some people really derive deep enjoyment of sad music?
 
-### List of publications
+## Music perception
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Ftuomaseerola.github.io%2FEerola.bib&commas=true&jsonp=1"></script>
+How do we parse together meaningful elements such as melody, rhythm, timbre from the complex sound signal? What does our mind expect when we hear a snippet of melody or how do we synchronise with the beat? Why and how some harmonies are rich and appealing but some are jarring and consonant? How does texture and colour of sounds communicate expression in music?  
+
+## 
