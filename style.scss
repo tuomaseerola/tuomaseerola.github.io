@@ -283,13 +283,6 @@ footer {
   text-align: center;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
-
-
-
 #group_article div.bibbase_group i+span { display: none; }
 #group_inproceedings div.bibbase_group i+span { display: none; }
 #group_mastersthesis div.bibbase_group i+span { display: none; }
@@ -297,12 +290,22 @@ footer {
 #group_techreport div.bibbase_group i+span { display: none; }
 #group_unpublished div.bibbase_group i+span { display: none; }
 #group_incollection div.bibbase_group i+span { display: none; }
+#group_inbook div.bibbase_group i+span { display: none; }
+#group_book div.bibbase_group i+span { display: none; }
 
 #group_article div.bibbase_group i:after { content: " Journal Articles" }
-#group_inproceedings div.bibbase_group i:after { content: " Conference and Workshop Publications" }
+#group_inproceedings div.bibbase_group i:after { content: " Conference Publications" }
 #group_mastersthesis div.bibbase_group i:after { content: " Master's Thesis" }
 #group_phdthesis div.bibbase_group i:after { content: " PhD Thesis" }
 #group_techreport div.bibbase_group i:after { content: " Technical Report" }
 #group_unpublished div.bibbase_group i:after { content: " Unpublished" }
-#group_incollection div.bibbase_group i:after { content: " In Collection" }
+#group_incollection div.bibbase_group i:after { content: " Book Chapters" }
+#group_inbook div.bibbase_group i:after { content: " Book Chapters" }
+#group_book div.bibbase_group i:after { content: " Books (Edited and Authored)" }
+
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+@import "highlights";
+@import "svg-icons";
 
