@@ -18,4 +18,4 @@ and my academic homepage is at [Durham University, UK](https://www.durham.ac.uk/
 
 ### List of publications
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Ftuomaseerola.github.io%2FEerola.bib&commas=true&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Ftuomaseerola.github.io%2FEerola.bib&commas=true&jsonp=1&authorFirst=true"></script>
