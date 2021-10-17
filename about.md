@@ -7,7 +7,7 @@ published: true
 
 I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the key elements of music such as melody, timbre, rhythm, metre and dissonance.
 
-My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and you can scroll through my publications at [publications](publications).
+My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and you can scroll through my publications at [/publications](publications).
 
 ## Research Themes
 
