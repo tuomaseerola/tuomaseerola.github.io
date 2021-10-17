@@ -10,7 +10,7 @@ You can find my publications at:
 * [Researchgate](https://www.researchgate.net/profile/Tuomas_Eerola)
 * [ORCID](https://orcid.org/0000-0002-2896-929X)
 
-and my academic homepage is at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/)
+and my academic homepage is at [Durham University, UK](https://www.durham.ac.uk/staff/tuomas-eerola/)
 
 ### List of open data and code
 
