@@ -7,7 +7,7 @@ published: true
 
 I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the key elements of music such as melody, timbre, rhythm, metre and dissonance.
 
-My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and my publication list can be found at [publications.md](publications).
+My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and my publication list can be found at [publications](publications).
 
 ## Research Themes
 
@@ -15,7 +15,7 @@ I have worked on a number of different research themes and topics. Here are some
 
 ### Music and emotions
 
-* [_posts/2020-2-27-test.md](_posts/2020-2-27-test.md)
+* [_posts/2020-2-27-test.md](_posts/2020-2-27-test22.md)
 
 How music affects our emotions? What are the actual emotions, can they be reliable captured with self-reports and psychophysiology? Why some pieces of music seem to give goosebumps and chills to some listeners but not to others? [What features of music communicate emotional expression in Western music](https://musicscience.net/projects/music-emotions/music-properties/)? How similar are the features linked to emotional expression in different musical genres and [cultures](https://musicscience.net/cross-cultural-research-in-music-and-emotions/)? [Why some people really derive deep enjoyment of sad music](https://musicscience.net/projects/music-emotions/sad-music/)? I also collaborate with scholars who explore whether [music is particularly strong in creating autobiographical memories](https://musicscience.net/projects/music-memory/meams/).
 
