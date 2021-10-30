@@ -5,19 +5,21 @@ permalink: /about/
 published: true
 ---
 
-I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the key elements of music such as melody, timbre, rhythm, metre and dissonance.
+I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the central elements of music such as melody, timbre, rhythm, metre and dissonance.
 
-My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and you can scroll through my [publications](https://tuomaseerola.github.io/publications).
-
-## Research Themes
-
-I have worked on a number of different research themes and topics. Here are some example questions from these topics.
+My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and you can sort and organise my [publications](https://tuomaseerola.github.io/publications).
 
 ### Music and emotions
 
-How music affects our emotions? What are the actual emotions, can they be reliable captured with self-reports and psychophysiology? Why some pieces of music seem to give goosebumps and chills to some listeners but not to others? [What features of music communicate emotional expression in Western music](https://musicscience.net/projects/music-emotions/music-properties/)? How similar are the features linked to emotional expression in different musical genres and [cultures](https://musicscience.net/cross-cultural-research-in-music-and-emotions/)? [Why some people really derive deep enjoyment of sad music](https://musicscience.net/projects/music-emotions/sad-music/)? I also collaborate with scholars who explore whether [music is particularly strong in creating autobiographical memories](https://musicscience.net/projects/music-memory/meams/).
+To me the main appeal of music is how it can affect our emotions in rapid, unique and profound ways. To understand this topic better, I have carried out research under three broad questions:
 
-* Read more about [music and emotions](_posts/2020-2-27-test.md)
+1. What are the emotional experiences listeners have with music, and how these can be reliably captured, and how we should attempt to explain these with theories and mechanisms? 
+
+2. How do some special emotions related to music operate? What is the appeal of sad music and [why some people really derive deep enjoyment of sad music](https://musicscience.net/projects/music-emotions/sad-music/)? Or why some pieces of music seem to give goosebumps and chills to some listeners but not to others? 
+
+3. [What features of music communicate emotional expression in Western music](https://musicscience.net/projects/music-emotions/music-properties/)? How similar are the features linked to emotional expression in different musical genres and [cultures](https://musicscience.net/cross-cultural-research-in-music-and-emotions/)? 
+
+* You can read more about [music and emotions](_posts/2020-2-27-test.md)
 
 ### [Computational modells of music perception](_posts/2021-10-17-topic.md)
 
