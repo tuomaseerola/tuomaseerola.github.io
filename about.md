@@ -23,13 +23,20 @@ To me the main appeal of music is how it can affect our emotions in rapid, uniqu
 
 ### [Computational modells of music perception](_posts/2021-10-17-topic.md)
 
-How do we parse together meaningful elements such as melody, rhythm, timbre from the complex sound signal? What does our mind expect when we hear a snippet of melody or [how do we synchronise with the beat and coordinate our behaviour in ensemble performance?](https://musicscience.net/projects/timing/iemp/) Why and how some harmonies are rich and appealing but some are jarring and consonant? How does texture and colour of sounds communicate expression in music?  
+The second fundamental question about music is how do we parse this complex auditory coctail together as a meaningul set of elements and meanings? How do we extract melody, rhythm, structure, dynamics, harmonic elements and timbre from the complex sound signal. 
+
+1. What does our mind expect when we hear a snippet of melody? 
+
+2. [How do we synchronise with the beat and coordinate our behaviour in ensemble performance?](https://musicscience.net/projects/timing/iemp/) 
+
+3. Why and how some harmonies are rich and appealing but some are jarring and consonant? How does texture and colour of sounds communicate expression in music?  
 
 * Read more about [Computational models](_posts/2021-10-17-topic.md)
 
 ### Research principles
 
-I try to work with empirical data and operate in transparent fashion. This includes commitment to
+I mainly work with empirical data and attempt to operate in transparent fashion. This includes commitment to
 * [open data and code](http://github.com/tuomaseerola/opendata/)
-* formalising research with computational models
+* formalising research with computational models [see X and Y]
 * open access publications
+
