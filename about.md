@@ -11,19 +11,19 @@ My institutional homepage can be found at [Durham University](https://www.durham
 
 ### Music and emotions
 
-To me the main appeal of music is how it can affect our emotions in rapid, unique and profound ways. To understand this topic better, I have carried out research under three broad questions:
+The main appeal of music is how it can affect our emotions in rapid, unique and profound ways. To understand this topic better, we have carried out research under three broad questions:
 
-1. What are the emotional experiences listeners have with music, and how these can be reliably captured, and how we should attempt to explain these with theories and mechanisms? 
+1. What are the emotional experiences listeners have with music, and how these can be reliably captured, and how we should attempt to explain these theoretically and empirically?
 
-2. How do some special emotions related to music operate? What is the appeal of sad music and [why some people really derive deep enjoyment of sad music](https://musicscience.net/projects/music-emotions/sad-music/)? Or why some pieces of music seem to give goosebumps and chills to some listeners but not to others? 
+2. How do specific emotional experiences related to music operate? What is the appeal of sad music and [why some people really derive deep enjoyment of sad music](https://musicscience.net/projects/music-emotions/sad-music/)? Or why some pieces of music seem to give goosebumps and chills to some listeners but not to others? 
 
-3. [What features of music communicate emotional expression in Western music](https://musicscience.net/projects/music-emotions/music-properties/)? How similar are the features linked to emotional expression in different musical genres and [cultures](https://musicscience.net/cross-cultural-research-in-music-and-emotions/)? 
+3. [What features of music communicate emotional expression in Western music?](https://musicscience.net/projects/music-emotions/music-properties/) How similar are the features linked to emotional expression in different musical genres and [cultures](https://musicscience.net/cross-cultural-research-in-music-and-emotions/)? 
 
 * You can read more about [music and emotions](_posts/2020-2-27-test.md)
 
-### [Computational modells of music perception](_posts/2021-10-17-topic.md)
+### [Computational models of music perception](_posts/2021-10-17-topic.md)
 
-The second fundamental question about music is how do we parse this complex auditory coctail together as a meaningul set of elements and meanings? How do we extract melody, rhythm, structure, dynamics, harmonic elements and timbre from the complex sound signal. 
+The second fundamental question about music is how do we parse this complex auditory cocktail together as a meaningful set of elements and interpretations? How do we extract melody, rhythm, phrasing, dynamics, harmonic elements and timbre from the complex sound signals? 
 
 1. What does our mind expect when we hear a snippet of melody? 
 
@@ -35,8 +35,8 @@ The second fundamental question about music is how do we parse this complex audi
 
 ### Research principles
 
-I mainly work with empirical data and attempt to operate in transparent fashion. This includes commitment to
+I mainly work with empirical data and attempt to carry out transparent research, which includes commitment to
 * [open data and code](http://github.com/tuomaseerola/opendata/)
-* formalising research with computational models [see X and Y]
-* open access publications
+* formalising research with computational models [more here](_posts/2021-10-17-topic.md)]
+* open access publications [link](publications.md)
 
