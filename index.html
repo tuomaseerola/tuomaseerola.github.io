@@ -2,16 +2,17 @@
 layout: default
 ---
 
-<H2>Brief</H2>
-I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the central elements of music such as melody, timbre, rhythm, metre and dissonance.
+I am music scholar working on the fields of empirical musicology, music psychology and music and science. My topics of interest are music and emotions, perception of the central elements of music such as melody, timbre, rhythm and consonance and dissonance.
 
-My institutional homepage can be found at <A HREF="https://www.durham.ac.uk/staff/tuomas-eerola/">Durham University</A>, and I am co-director of <A HREF="https://musicscience.net/">Music and Science Lab</A>, and you can sort and organise <A HREF="https://tuomaseerola.github.io/publications">my publications</A>.
+My institutional homepage can be found at <A HREF="https://www.durham.ac.uk/staff/tuomas-eerola/">Durham University</A>, and I am co-director of <A HREF="https://musicscience.net/">Music and Science Lab</A>, and you can sort and organise <A HREF="https://tuomaseerola.github.io/publications">my publications</A>. Read more about my <A HREF="https://tuomaseerola.github.io/about/">research interests</A>.
+
+You can read summaries of my topics of interest via blog posts:
 
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
         {{ post.excerpt }}
