@@ -37,6 +37,6 @@ The second fundamental question about music is how do we parse this complex audi
 
 I mainly work with empirical data and my aim is to carry out research as _transparently_ as possible, which includes commitment to
 * [open data and code](http://github.com/tuomaseerola/opendata/)
-* formalising research with computational models [more here](_posts/2021-10-17-topic.md)]
+* formalising research with computational models [more here](_posts/2021-10-17-topic.md)
 * open access publications [link](publications.md)
 
