@@ -23,7 +23,7 @@ Music affects our emotions in rapid, unique and profound ways. To understand thi
 
 ### [Computational models of music perception](_posts/2021-10-17-topic.md)
 
-The second fundamental question about music is how do we parse this complex auditory cocktail together as a meaningful interpretation? How do we extract melody, rhythm, phrasing, dynamics, harmonic elements and timbre from the complex sound signals? These topics can be best understood by formulating the ideas as computational models which are tested with empirical data.
+The second fundamental question about music is how do we parse this complex auditory cocktail together? How do we extract melody, rhythm, phrasing, dynamics, harmonic elements and timbre from the complex sound signals? These topics can be best understood by formulating the ideas as computational models which are tested with empirical data.
 
 1. What does our mind expect when we hear a snippet of melody? 
 
