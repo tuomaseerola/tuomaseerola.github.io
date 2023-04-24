@@ -15,11 +15,11 @@ Music affects our emotions in rapid, unique and profound ways. To understand thi
 
 1. What are the emotional experiences listeners have with music, and how these can be reliably captured, and how we should attempt to explain these theoretically and empirically?
 
-2. How do specific emotional experiences such as sadness or chills related to music operate? [Why some people really derive deep enjoyment of sad music](https://musicscience.net/projects/music-emotions/sad-music/)? Or why some pieces of music seem to give goosebumps and chills to some listeners but not to others?
+2. How do specific emotional experiences such as sadness or chills related to music operate? Or why some pieces of music seem to give goosebumps and chills to some listeners but not to others?
 
-3. [What features of music communicate emotional expression in Western music?](https://musicscience.net/projects/music-emotions/music-properties/) How similar are the features linked to emotional expression in different musical genres and [cultures](https://musicscience.net/cross-cultural-research-in-music-and-emotions/)? 
+3. What features of music communicate emotional expression in Western music? How similar are the features linked to emotional expression in different musical genres and cultures? 
 
-* You can read more about [music and emotions](_posts/2020-2-27-test.md)
+* You can read more about [music and emotions](_posts/2021-11-27-test.md)
 
 ### [Computational models of music perception](_posts/2021-10-17-topic.md)
 
