@@ -2,7 +2,6 @@
 layout: page
 title: Packages
 permalink: /packages/
-published: true
 ---
 
 I have released various datasets, tools and computational packages.
