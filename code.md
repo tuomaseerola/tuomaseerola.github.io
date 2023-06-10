@@ -1,15 +1,20 @@
 ---
 layout: page
-title: Packages
-permalink: /packages/
+title: Code and data
+permalink: /code/
 ---
 
-I have released various datasets, tools and computational packages.
+I have released various datasets, tools and computational packages. Here are the latest R packages. 
 
-* [MusicScienceData](https://github.com/tuomaseerola/MusicScienceData)
+* [MusicScienceData](https://github.com/tuomaseerola/MusicScienceData) is an R package that offers example datasets suitable for exploration of basic analyses (correlation, comparison of means, etc.) in music and science studies.
 
-* [onsetsync](https://tuomaseerola.github.io/onsetsync/)
+* [onsetsync](https://tuomaseerola.github.io/onsetsync/) is a R package for musical assessing synchrony between onsets from multiple music performers.
 
-* [movementsync](https://tuomaseerola.github.io/movementsync/)
+* [movementsync](https://tuomaseerola.github.io/movementsync/) provides analysis and visualisation of synchrony, interaction, and joint movements from audio and video movement data of a group of music performers.
 
-* [inconMore](https://github.com/tuomaseerola/inconMore)
+* [inconMore](https://github.com/tuomaseerola/inconMore) is an R library that supplements simultaneous consonance perception datasets originally provided by Peter Harrison’s wonderful incon library
+
+* [emr](https://github.com/tuomaseerola/emr) is a set of jupyter notebook containing code associated with a book titled "Music and Science – Guide to Empirical Music Research" (Routledge 2023). 
+
+I attempt to release all data of papers I write and I keep track of these in github repository [OpenData](https://github.com/tuomaseerola/opendata/). 
+
