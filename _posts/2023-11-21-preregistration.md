@@ -9,7 +9,7 @@ title: Preregistering studies in music and science
     </div>
 </center>
 
-We are proud to announce the publication of the first Registered Reported in Music Perception with our paper titled [Valenced Priming with Acquired Affective Concepts in Music: Automatic Reactions to Common Tonal Chords](https://online.ucpress.edu/mp).
+We are proud to announce the publication of the first **Registered Reported** in _Music Perception_ with our paper titled [Valenced Priming with Acquired Affective Concepts in Music: Automatic Reactions to Common Tonal Chords](https://online.ucpress.edu/mp).
 
 A **Registered Report** is a special type of publication format that takes the open science requirements to the maximum level; a detailed research plan is subjected to peer review before any data is collected. The purpose is to ensure that the methods, hypotheses, and analysis steps are defined to avoid any cherry-picking, p-hacking, and revision of the hypothesis after the results are known. In short, the purpose is to promote transparency of research and also allow publishing results no matter what the outcome is and thus also avoiding the bias of publishing only positive findings. 
 
@@ -22,7 +22,7 @@ In the past, roughness contrasts (e.g., dissonant m2 vs consonant P5 intervals) 
 
 This plan was submitted to peer review in Music Perception (link). After receiving the feedback, we addressed the points raised by three expert reviewers to the plan, and then after getting the approval for our changes, we finally collected (N=400) and analysed the data according to the plan. We then found out that three out of four hypotheses were supported. As committed in the plans, we made the data and the analysis scripts available at [Github](https://github.com/tuomaseerola/cultural_priming). We completed the report, and again the experts checked whether we honoured the commitments made in the preregistration, and after this process was completed, the paper was finally published. My co-author Imre Lahdelma has written [in more detail about the results](https://musicscience.net/2023/01/16/nemur-7-a-day-of-interdisciplinarity-and-collaboration/). 
 
-![A simplified figure here about the Registered Report process.](../images/preregistration_process.png){: width="70%"}
+![A simplified figure here about the Registered Report process.](../images/preregistration_process.png){: width="50%"}
 
 
 ## Registered Report: Is it worth the effort?
