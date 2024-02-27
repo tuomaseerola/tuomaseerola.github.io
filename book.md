@@ -5,7 +5,7 @@ permalink: /book/
 published: true
 ---
 
-Book titled _Music and Science – Guide to Empirical Music Research_ will be published in 2023 by [Routledge](https://www.routledge.com).
+Book titled _Music and Science – Guide to Empirical Music Research_ will be published in 2024 by [Routledge](https://www.routledge.com).
 
 It is aimed as an introductory text to music undergraduates, postgraduates, and students in related disciplines. 
 
