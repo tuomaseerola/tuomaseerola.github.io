@@ -13,7 +13,7 @@ I am music scholar working in the field of empirical musicology, music psycholog
 My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and here is a dynamic database of my [publications](https://tuomaseerola.github.io/publications). My [Academic CV](tuomaseerola_CV.pdf) is also available here.
 
 I mainly work with empirical data and my aim is to carry out research as _transparently_ as possible, which includes commitment to
-* <i class="ai ai-open-data ai-3x"></i>[open data and code](http://github.com/tuomaseerola/opendata/)
+* <i class="ai ai-open-data ai-1x"></i> [open data and code](http://github.com/tuomaseerola/opendata/)
 * formalising research with computational models [more here](_posts/2021-10-17-topic.md)
-* <i class="ai ai-open-access ai-3x"></i>open access publications [link](publications.md)
+* <i class="ai ai-open-access ai-1x"></i> open access publications [link](publications.md)
 
