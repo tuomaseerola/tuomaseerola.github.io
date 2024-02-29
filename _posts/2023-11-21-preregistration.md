@@ -11,11 +11,11 @@ title: Preregistering studies in music and science
 </style>
 
 
-We are proud to announce the publication of the first **Registered Report** in _Music Perception_ with our paper titled [Valenced Priming with Acquired Affective Concepts in Music: Automatic Reactions to Common Tonal Chords](https://doi.org/10.1525/mp.2024.41.3.161).
-
 <div class="wrap">
     <img src="../images/preregisteration_music.png" width="250" alt="Preregistration of music and science studies"/>
 </div>
+
+We are proud to announce the publication of the first **Registered Report** in _Music Perception_ with our paper titled [Valenced Priming with Acquired Affective Concepts in Music: Automatic Reactions to Common Tonal Chords](https://doi.org/10.1525/mp.2024.41.3.161).
 
 A **Registered Report** is a special type of publication format that takes the open science requirements to the maximum level; a detailed research plan is subjected to peer review before any data is collected. The purpose is to ensure that the methods, hypotheses, and analysis steps are defined to avoid any cherry-picking, p-hacking, and revision of the hypothesis after the results are known. In short, the purpose is to promote transparency of research and also allow publishing results no matter what the outcome is and thus also avoiding the bias of publishing only positive findings. 
 
