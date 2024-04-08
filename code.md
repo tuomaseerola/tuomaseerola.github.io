@@ -14,7 +14,7 @@ I have released various datasets, tools and computational packages. Here are the
 
 * [inconMore](https://github.com/tuomaseerola/inconMore) is an R library that supplements simultaneous consonance perception datasets originally provided by Peter Harrison’s wonderful [incon](https://github.com/pmcharrison/incon) library
 
-* [emr](https://github.com/tuomaseerola/emr) is a set of jupyter notebooks containing code associated with a book titled "Music and Science – Guide to Empirical Music Research" (Routledge 2024)
+* [emr](https://tuomaseerola.github.io/emr/) is a set of notebooks containing code associated with a book titled "Music and Science – Guide to Empirical Music Research" (Routledge 2024)
 
 I attempt to release all data of papers I write and I keep track of these in GitHub repository [OpenData](https://github.com/tuomaseerola/opendata/) 
 
