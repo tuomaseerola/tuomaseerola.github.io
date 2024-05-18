@@ -5,13 +5,13 @@ permalink: /book/
 published: true
 ---
 
-Book titled _Music and Science: A Guide to Empirical Research_ will be published in 2024 by [Routledge](https://www.routledge.com).
-
 <img src="../images/music_and_science_cover_sm.png" align="right" />
 
-It is aimed as an introductory text to music undergraduates, postgraduates, and students in related disciplines. 
+Book titled _Music and Science: A Guide to Empirical Research_ will be published in 2024 by [Routledge](https://www.routledge.com).
 
-The materials are Quarto notebooks with code examples in R or Python. All code is available at [https://tuomaseerola.github.io/emr/](https://tuomaseerola.github.io/emr/)
+The book is aimed as an introductory text to music undergraduates, postgraduates, and students in related disciplines. 
+
+The digital materials are available as [Quarto](https://quarto.org) notebooks with code examples in [R](https://www.r-project.org) or [Python](https://www.python.org). All code is available at [https://tuomaseerola.github.io/emr/](https://tuomaseerola.github.io/emr/)
 
 ## Contents
 <ul style="list-style-type:none;">
