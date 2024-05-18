@@ -29,4 +29,3 @@ The digital materials are available as [Quarto](https://quarto.org) notebooks wi
 <li>Chapter 11: Corpus Studies
 <li>Chapter 12: Summary and Future Directions
 
-</ul>
