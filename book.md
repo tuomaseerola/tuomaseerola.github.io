@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music and Science - A Guide to Empirical Research (Book)
+title: Music and Science - A Guide to Empirical Research
 permalink: /book/
 published: true
 ---
@@ -14,7 +14,8 @@ The book is aimed as an introductory text to music undergraduates, postgraduates
 The digital materials are available as [Quarto](https://quarto.org) notebooks with code examples in [R](https://www.r-project.org) or [Python](https://www.python.org). All code is available at [https://tuomaseerola.github.io/emr/](https://tuomaseerola.github.io/emr/)
 
 ## Contents
-<ul style="list-style-type:none;">
+<ul style="list-style-type:none">
+
 <li>Chapter 1: Introduction
 <li>Chapter 2: History
 <li>Chapter 3: Contemporary Empirical Music Research
@@ -27,4 +28,5 @@ The digital materials are available as [Quarto](https://quarto.org) notebooks wi
 <li>Chapter 10: Analysis of Audio
 <li>Chapter 11: Corpus Studies
 <li>Chapter 12: Summary and Future Directions
+
 </ul>
