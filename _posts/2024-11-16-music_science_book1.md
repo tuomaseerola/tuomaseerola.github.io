@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /musicscience_book/
 title: Music and Science book now out 
 ---
 

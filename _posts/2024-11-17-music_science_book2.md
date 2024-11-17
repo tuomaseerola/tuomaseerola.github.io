@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /musicscience_title/
 title: Why Music and Science?
 ---
 

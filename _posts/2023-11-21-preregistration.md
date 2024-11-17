@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /preregistration/
 title: Preregistering studies in music and science
 ---
 
