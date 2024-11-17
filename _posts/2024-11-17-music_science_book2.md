@@ -45,9 +45,4 @@ Lastly, I wanted the book’s title to reflect my goal of bringing music psychol
 
 The book emphasizes both traditional empirical music research and computational methods, which often overlap in their interests and methodologies. I argue that to fully understand music—why and how we engage with it—we must consider both the psychological experiences of participants and the structural qualities of the music they create, perform, and consume.
 
-### Challenges in Adopting the Term "Music and Science"
-
-Publishing a book requires navigating feedback from publishers, editors, and supporting organisations. In this case, the term *music and science* in the title initially faced some doubts, with concerns that it might alienate readers from humanities or music education backgrounds. Critics argued that the term *science* could signal "hard sciences", potentially deterring these audiences.  
-
-This is a valid concern. For instance, similar issues have been raised regarding our MA program and recruitment strategies, with university marketing teams suggesting that *music psychology* is a better-established term in higher education. Choosing a new term comes with risks. Only time will tell if *music and science* can carve out its niche in music research during this decade and whether people not yet familiar with the research disciplines will find it informative when offered different choices. However, I believe the term reflects a broader and more inclusive vision for the field.
-
+Only time will tell if *music and science* can carve out its niche in music research during this decade. I hope people not yet familiar with the research disciplines will find the term useful as I believe the term reflects a broader and more inclusive vision for the field. 
