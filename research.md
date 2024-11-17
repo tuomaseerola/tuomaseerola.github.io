@@ -10,6 +10,6 @@ I am music scholar working in the field of empirical musicology, music psycholog
 
 My research themes are
 
-* music and emotions
+* [music and emotions](/music_and_emotions/)
 * music perception
-* computational models of music perception
+* [computational models of music perception](2021-10-17-topic.md)
