@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why "Music and Science"?
+title: Why Music and Science?
 ---
 
 <style>
