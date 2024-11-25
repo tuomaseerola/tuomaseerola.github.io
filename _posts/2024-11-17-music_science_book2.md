@@ -16,7 +16,7 @@ title: Why Music and Science?
     <img src="https://tuomaseerola.github.io/emr/images/music_and_science_cover_sm.png"/>
 </div>
 
-I am proud to announce the release of my new textbook in the fields of music and science, and music psychology titled [Music and Science: A Guide to Empirical Music Research](https://www.taylorfrancis.com/books/mono/10.4324/9781003293804/music-science-tuomas-eerola). This book has grown from a decade of teaching these subjects at [Durham University](https://www.durham.ac.uk/departments/academic/music/).
+I am proud to announce the release of my new textbook in the fields of music and science, and music psychology titled [Music and Science: A Guide to Empirical Research](https://www.taylorfrancis.com/books/mono/10.4324/9781003293804/music-science-tuomas-eerola). This book has grown from a decade of teaching these subjects at [Durham University](https://www.durham.ac.uk/departments/academic/music/).
 
 I had several options for the title of the book. It could have been *A Guide to Empirical Musicology* or *Empirical Music Research* (as part of the title suggests). Alternatively, it might have incorporated terms like *Systematic Musicology*, *Music Cognition*, *Guide to Music Psychology* or *Scientific Musicology*. However, I chose to highlight *music and science* for specific reasons, and in this blog post, I’d like to explain why I made this choice and share some of the motivations behind it.
 
