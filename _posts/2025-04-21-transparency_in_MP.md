@@ -16,8 +16,6 @@ title: Transparency in Music Psychology Research
     <img src="https://tuomaseerola.github.io/images/fig1.jpg"/>
 </div>
 
-# Transparency in Music Psychology Research
-
 I recently published a paper suggesting that music psychology, as a discipline, lacks transparency ([Eerola, 2024](https://doi.org/10.1177/10298649241300885)). This claim was based on a straightforward tally of transparency- and reproducibility-related practices in articles published between 2017 and 2022 in a selection of discipline-specific journals: _Music Perception_, _Psychology of Music_, _Musicae Scientiae_, _Music & Science_, and _Journal of New Music Research_. Similar analyses have been conducted in psychology (see [Hardwicke et al., 2024](https://psycnet.apa.org/doi/10.1177/25152459241283477)). Both studies suggest that, despite numerous efforts to improve research practices since the “transparency crisis” was acknowledged in 2011, the uptake of transparent practices remains limited in both fields.
 
 ## Key findings
@@ -26,7 +24,7 @@ I recently published a paper suggesting that music psychology, as a discipline, 
 
 - **Preregistration:** No preregistrations were found in the sampled articles. In contrast, 7% of the psychology sample included preregistration. I know that pre-registration does exist in music psychology—I've conducted and written about it myself ([Preregistering studies in music and science](https://tuomaseerola.github.io/preregistration/))—but it remains rare. Even when actively searched for, pre-registrations are still the exception rather than the rule.
 
-![](images/fig3.jpg)
+![](../images/fig3.jpg)
 
 - **Open Access:** Nearly a half (47%) of the studies are available on Open Access. This is somewhat lower than what psychology studies generally show (74%) but is also dependent on many factors related journal and university policies.
 
@@ -41,7 +39,7 @@ The initial reactions from reviewers, conference audiences (e.g. ESCOM), and col
 
 Some might argue that focusing on discipline-specific journals overlooks more transparent work published in generalist or high-impact journals, which often require open practices. However, recent analyses in psychology suggest that the difference between field-wide samples and top-tier journals is generally small. Even if it holds true in some cases, it doesn’t change the fact that, as a discipline, music psychology lacks consistent norms around transparency.
 
-![](images/fig2.jpg)
+![](../images/fig2.jpg)
 
 
 And to clarify, *sharing data* means **functional sharing**—i.e., making data and materials freely available via a public repository with no additional steps. Statements such as “Data available upon reasonable request” do not constitute proper sharing. These requests are known to be inefficient, unreliable, and frequently unanswered ([Tedersoo et al., 2021](https://doi.org/10.1038/s41597-021-00981-0)). This should no longer be accepted by journals. Furthermore, sharing sensitive data—such as clinical, commercially sensitive, or large-scale datasets—is possible with the right protocols (see [Jack Nash, Wellcome Trust](https://blog.wellcomeopenresearch.org/2024/02/22/sharing-sensitive-data-safely/); [Tamuhla et al., 2023](https://gh.bmj.com/content/8/10/e013092)).
@@ -61,7 +59,7 @@ These findings suggest that music psychology must strengthen its commitment to o
 - As **individual researchers**, we should reflect on what prevents us from preregistering our next study and making  data and analysis scripts available. These could—and should—become routine and maybe we just need to embed working with GitHub or OSF into our normal research routines. 
 
 
-![](images/fig4.jpg)
+![](../images/fig4.jpg)
 
 
 ## A Modest Starting Point, But Significant Gains Ahead
