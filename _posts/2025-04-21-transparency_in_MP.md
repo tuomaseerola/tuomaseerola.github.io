@@ -60,9 +60,9 @@ These findings suggest that music psychology must strengthen its commitment to o
 
 - As **individual researchers**, we should reflect on what prevents us from preregistering our next study and making  data and analysis scripts available. These could—and should—become routine and maybe we just need to embed working with GitHub or OSF into our normal research routines. 
 
-
+<p align="center">
 ![](../images/fig4.jpg)
-
+</p>
 
 ## A Modest Starting Point, But Significant Gains Ahead
 
@@ -78,6 +78,6 @@ Let’s see where we are in five years. My prediction: we’ll see a significant
 - Hardwicke, T. E., Thibault, R. T., Clarke, B., Moodie, N., Crüwell, S., Schiavone, S. R., Handcock, S. A., Nghiem, K. A., Mody, F., Eerola, T., & Vazire, S. (2024). Prevalence of transparent research practices in psychology: A cross-sectional study of empirical articles published in 2022. _Advances in Methods and Practices in Psychological Science_, 7(4), 1–13. [https://doi.org/10.1177/25152459241283477](https://psycnet.apa.org/doi/10.1177/25152459241283477)
 - Hardwicke, T. E., & Vazire, S. (2023). Transparency Is Now the Default at Psychological Science._Psychological Science_,_35_(7), 708-711. [https://doi.org/10.1177/09567976231221573](https://doi.org/10.1177/09567976231221573)
 - Tamuhla, T., Lulamba, E. T., Mutemaringa, T., & Tiffin, N. (2023). Multiple modes of data sharing can facilitate secondary use of sensitive health data for research. _BMJ Global Health, 8(10)_, e013092. https://ghsite-bmj.vercel.app/content/8/10/e013092
-- Rothman, K. J., & Greenland, S. (2018). Planning Study Size Based on Precision Rather Than Power. _Epidemiology, 29(5)_, 599–603. https://doi.org/10.1097/EDE.0000000000000876
+- Rothman, K. J., & Greenland, S. (2018). Planning Study Size Based on Precision Rather Than Power. _Epidemiology, 29(5)_, 599–603. [https://doi.org/10.1097/EDE.0000000000000876](https://doi.org/10.1097/EDE.0000000000000876)
 - Tedersoo, L., Küngas, R., Oras, E., Köster, K., Eenmaa, H., Leijen, Ä., Pedaste, M., Raju, M., Astapova, A., Lukner, H., Kogermann, K., & Sepp, T. (2021). Data sharing practices and data availability upon request differ across scientific disciplines. _Scientific Data_, _8_(1), 192. [https://doi.org/10.1038/s41597-021-00981-0](https://doi.org/10.1038/s41597-021-00981-0)
 
