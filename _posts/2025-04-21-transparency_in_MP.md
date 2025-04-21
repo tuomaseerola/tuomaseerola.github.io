@@ -5,6 +5,17 @@ title: Transparency in Music Psychology Research
 ---
 
 <style>
+img
+{
+    display:block; 
+    float:none; 
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style> 
+
+<style>
  .wrap {
    float: right; 
    margin: 5px;
@@ -60,9 +71,7 @@ These findings suggest that music psychology must strengthen its commitment to o
 
 - As **individual researchers**, we should reflect on what prevents us from preregistering our next study and making  data and analysis scripts available. These could—and should—become routine and maybe we just need to embed working with GitHub or OSF into our normal research routines. 
 
-<p align="center">
 ![](../images/fig4.jpg)
-</p>
 
 ## A Modest Starting Point, But Significant Gains Ahead
 
