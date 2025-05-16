@@ -2,6 +2,7 @@
 layout: post
 permalink: /musicscience_title/
 title: Why Music and Science?
+excerpt: I had several options for the title of the book. It could have been *A Guide to Empirical Musicology* or *Empirical Music Research* (as part of the title suggests). Alternatively, it might have incorporated terms like *Systematic Musicology*, *Music Cognition*, *Guide to Music Psychology* or *Scientific Musicology*. However, I chose to highlight *music and science* for specific reasons, and in this blog post, I’d like to explain why I made this choice and share some of the motivations behind it.
 ---
 
 <style>
