@@ -2,8 +2,7 @@
 layout: post
 permalink: /transparency/
 title: Transparency in Music Psychology Research
-excerpt:
-         I recently published a paper suggesting that music psychology, as a discipline, lacks transparency (Eerola, 2024). This claim was based on a straightforward tally of transparency- and reproducibility-related practices in articles published between 2017 and 2022 in a selection of discipline-specific journals.
+excerpt: I recently published a paper suggesting that music psychology, as a discipline, lacks transparency (Eerola, 2024). This claim was based on a straightforward tally of transparency- and reproducibility-related practices in articles published between 2017 and 2022 in a selection of discipline-specific journals.
 ---
 
 <style>

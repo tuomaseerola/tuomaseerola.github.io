@@ -11,7 +11,7 @@ My institutional homepage can be found at [Durham University](https://www.durham
 
 I mainly work with empirical data and my aim is to carry out research as _transparently_ as possible, which includes commitment to:
 
-* releasing my research as open data and code, [see coverage here]](http://github.com/tuomaseerola/opendata/)
+* releasing my research as open data and code, [see coverage here](http://github.com/tuomaseerola/opendata/)
 * formalising my research with computational models, [more here](_posts/2021-10-17-topic.md)
 * publishing all research as Open Access, [see here](publications.md)
 * contributing to research transparency initiatives and training
