@@ -10,7 +10,8 @@ I am music scholar working in the field of empirical musicology, music psycholog
 
 My research themes are
 
-* [Music and emotions](/music_and_emotions/)
+* Music and emotions [(read more)]](/music_and_emotions/)
 * Music perception
-* [Computational models of music perception](/computational_models/)
-* Metascience of music psychology
+* Computational models of music perception [(read more)](/computational_models/)
+* Metascience of music psychology [(read more)]](https://tuomaseerola.github.io/transparency/)
+

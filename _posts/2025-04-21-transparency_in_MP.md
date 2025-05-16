@@ -2,6 +2,8 @@
 layout: post
 permalink: /transparency/
 title: Transparency in Music Psychology Research
+excerpt:
+         I recently published a paper suggesting that music psychology, as a discipline, lacks transparency (Eerola, 2024). This claim was based on a straightforward tally of transparency- and reproducibility-related practices in articles published between 2017 and 2022 in a selection of discipline-specific journals.
 ---
 
 <style>
@@ -83,7 +85,7 @@ Let’s see where we are in five years. My prediction: we’ll see a significant
 ## References
 
 - Bauer P. J. (2023). Attention to authenticity: An essential analogue to focus on rigor and replicability._Psychological Science_. [https://doi.org/10.1177/095679762312208](https://doi.org/10.1177/095679762312208)
-- Eerola, T. (2024). Prevalence of transparency and reproducibility-related research practices in music psychology (2017–2022). _Musicae Scientiae_, 1–15. [https://doi.org/10.1177/10298649241300885](https://doi.org/10.1177/10298649241300885)
+- Eerola, T. (2024). Prevalence of transparency and reproducibility-related research practices in music psychology (2017–2022). _Musicae Scientiae_, 29(2), 1–15. [https://doi.org/10.1177/10298649241300885](https://doi.org/10.1177/10298649241300885)
 - Hardwicke, T. E., Thibault, R. T., Clarke, B., Moodie, N., Crüwell, S., Schiavone, S. R., Handcock, S. A., Nghiem, K. A., Mody, F., Eerola, T., & Vazire, S. (2024). Prevalence of transparent research practices in psychology: A cross-sectional study of empirical articles published in 2022. _Advances in Methods and Practices in Psychological Science_, 7(4), 1–13. [https://doi.org/10.1177/25152459241283477](https://psycnet.apa.org/doi/10.1177/25152459241283477)
 - Hardwicke, T. E., & Vazire, S. (2023). Transparency Is Now the Default at Psychological Science._Psychological Science_,_35_(7), 708-711. [https://doi.org/10.1177/09567976231221573](https://doi.org/10.1177/09567976231221573)
 - Tamuhla, T., Lulamba, E. T., Mutemaringa, T., & Tiffin, N. (2023). Multiple modes of data sharing can facilitate secondary use of sensitive health data for research. _BMJ Global Health, 8(10)_, e013092. https://ghsite-bmj.vercel.app/content/8/10/e013092
