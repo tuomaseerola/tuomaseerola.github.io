@@ -18,6 +18,6 @@ and my academic homepage is at [Durham University, UK](https://www.durham.ac.uk/
 * [https://github.com/tuomaseerola/opendata](https://github.com/tuomaseerola/opendata)
 * [https://tuomaseerola.github.io/preregistration/](https://tuomaseerola.github.io/preregistration/)
 
-### List of publications
+### Dynamic list of publications
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Ftuomaseerola.github.io%2FEerola.bib&commas=true&jsonp=1&authorFirst=true"></script>
