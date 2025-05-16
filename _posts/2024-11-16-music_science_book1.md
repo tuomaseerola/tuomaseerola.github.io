@@ -1,7 +1,9 @@
 ---
 layout: post
 permalink: /musicscience_book/
-title: Music and Science book now out 
+title: Music and Science book now out
+excerpt: 
+        I’m thrilled to announce the release of my new textbook in the fields of music and science and music psychology. My book, titled [_Music and Science: A Guide to Empirical Research_](https://doi.org/10.4324/9781003293804), accumulates a decade of experience of teaching these subjects at Durham University. Over the past five years, both undergraduate and postgraduate students have accessed earlier drafts, and their invaluable feedback has shaped the book’s content and tone.
 ---
 
 <style>
