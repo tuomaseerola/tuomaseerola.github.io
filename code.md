@@ -18,5 +18,5 @@ I have released various datasets, tools and computational packages. Here are the
 
 ## Data
 
-I attempt to release all data of papers I write and I keep track of these in a GitHub repository [OpenData](https://github.com/tuomaseerola/opendata/) 
+I attempt to release all data of studies I write and I keep track of these in a GitHub repository [OpenData](https://github.com/tuomaseerola/opendata/).
 
