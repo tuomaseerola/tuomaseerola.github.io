@@ -15,3 +15,9 @@ I mainly work with empirical data and my aim is to carry out research as _transp
 * formalising my research with computational models, [more here](_posts/2021-10-17-topic.md)
 * publishing all research as Open Access, [see here](publications.md)
 * contributing to research transparency initiatives and training
+
+
+### Headshots for media purposes here
+
+- [Eerola_T_headshot2026.jpg](images/Eerola_T_headshot2026.jpg)
+- [Eerola_T_headshot_2026_no_background.png](images/Eerola_T_headshot_2026_no_background.png)
