@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /first_woman_phd_durham/
-title: The first woman to be awarded PhD at Durham was music psychologist
+title: The first Woman Awarded PhD at Durham Was a Music Psychologist
 published: true
 excerpt: In 1936, Clara Robertson, who was 28 years old at the time, was the first woman to defend her doctoral thesis at Durham University. The title boldly stated The psychology of musical appreciation - an analysis of the bases and nature of the experience of listening to music, and her examiners, Dr C. S. Myers and Mr P. A. Scholes, were eminent scholars from London. The topic would have been a relevant research area sixty to eighty years later, but in the thirties, only a handful of scholars had tackled anything that could be regarded as related to this topic.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /phd_examination/
-title: Examining a PhD thesis
+title: Examining a PhD Thesis
 published: true
 excerpt: We try to give advice to our doctoral students about how to prepare for the PhD examination. These instructions (link), training events (link), and mock examinations are useful orientations for the pinnacle of doctoral students’ careers, but describing the process from the other side of the table, from the examiner’s point of view, is what I attempt to do here. I will draw on my twenty or so examinations in European countries (UK and Scandinavia, some in the US) related to empirical projects in music and science to reflect what seems to be essential in this review task.
 ---

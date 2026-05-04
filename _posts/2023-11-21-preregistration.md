@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /preregistration/
-title: Preregistering studies in music and science
+title: Preregistering Studies in Music Psychology
 excerpt: We are proud to announce the publication of the first Registered Report in Music Perception with our paper titled Valenced Priming with Acquired Affective Concepts in Music – Automatic Reactions to Common Tonal Chords. A Registered Report is a special type of publication format that takes the open science requirements to the maximum level; a detailed research plan is subjected to peer review before any data is collected.
 ---
 
