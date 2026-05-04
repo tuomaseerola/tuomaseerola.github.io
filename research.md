@@ -10,7 +10,8 @@ I am music scholar working in the field of empirical musicology, music psycholog
 These research themes are expanded in these blog texts:
 
 * Music and emotions ([read more](/music_and_emotions/))
-* Music perception ([read more](/music_perception/))
+* Music perception
+* Entrainment
 * Computational models of music perception ([read more](/computational_models/))
 * Metascience of music psychology ([read more](/metascience/))
 
