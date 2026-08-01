@@ -7,7 +7,7 @@ published: true
 
 I am music scholar working in the field of empirical musicology, music psychology and music and science. My topics of interest are music and emotions and how we perceive music, especially the central elements such as melody, timbre, rhythm, metre and dissonance, read more of my [research](https://tuomaseerola.github.io/).
 
-My institutional homepage can be found at [Durham University](https://www.durham.ac.uk/staff/tuomas-eerola/), and I am co-director of [Music and Science Lab](https://musicscience.net/), and here is a dynamic database of my [publications](https://tuomaseerola.github.io/publications). My [Academic CV](tuomaseerola_CV.pdf) is also available here. There are also headshots for media purposes [here](images/Eerola_T_headshot2026.jpg) and [here](images/Eerola_T_headshot_2026_no_background.png).
+My institutional homepage can be found at [University of Jyvaskyla](https://www.jyu.fi/en/people/tuomas-eerola), and I am a member of [Centre of Excellence in Music, Mind, Body and Brain](https://www.jyu.fi/en/research/centres-of-excellence/mmbb/), and here is a dynamic database of my [publications](https://tuomaseerola.github.io/publications). My [Academic CV](tuomaseerola_CV.pdf) is also available here. There are also headshots for media purposes [here](images/Eerola_T_headshot2026.jpg) and [here](images/Eerola_T_headshot_2026_no_background.png).
 
 I mainly work with empirical data and my aim is to carry out research as _transparently_ as possible, which includes commitment to:
 
