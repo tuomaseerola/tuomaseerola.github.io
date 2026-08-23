@@ -4,19 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-You can find my publications at:
+You can find my publications at [Google scholar](https://scholar.google.com/citations?user=K-odYUYAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-2896-929X) | [Researchgate](https://www.researchgate.net/profile/Tuomas_Eerola).
 
-* [Google scholar](https://scholar.google.com/citations?user=K-odYUYAAAAJ&hl=en)
-* [ORCID](https://orcid.org/0000-0002-2896-929X)
-* [Researchgate](https://www.researchgate.net/profile/Tuomas_Eerola)
-* [Academic CV](tuomaseerola_CV.pdf)
-
-and my academic homepage is at [Durham University, UK](https://www.durham.ac.uk/staff/tuomas-eerola/).
-
-### List of open data, open materials, and preregistered studies
-
-* [https://github.com/tuomaseerola/opendata](https://github.com/tuomaseerola/opendata)
-* [https://tuomaseerola.github.io/preregistration/](https://tuomaseerola.github.io/preregistration/)
+My academic [CV](tuomaseerola_CV.pdf) and homepage is at [University of Jyväskylä, Finland](https://www.jyu.fi/en/people/tuomas-eerola).
 
 ### Dynamic list of publications
 
